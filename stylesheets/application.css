@@ -1,0 +1,17 @@
+@import url("/stylesheets/application.css");
+
+body {
+  background-color: #f0f0f0;
+  font-family: 'Montserrat', 'Verdana', sans-serif;
+}
+
+#header {
+  background-color: #7800AA;
+  color: #ffffff; /* Define a cor do texto no header para branco */
+}
+
+#top-menu {
+  background-color: #4f0070;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
