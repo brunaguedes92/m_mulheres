@@ -8,10 +8,18 @@ body {
 #header {
   background-color: #7800AA;
   color: #ffffff; /* Define a cor do texto no header para branco */
+  font-family: 'Montserrat', 'Verdana', sans-serif;
 }
 
 #top-menu {
   background-color: #4f0070;
+  font-family: 'Montserrat', 'Verdana', sans-serif;
+  font-size: 9.6px;
+  padding: 2px 10px 18px 12px;
+}
+
+#main-menu ul {
+  font-size: 12px;
 }
 
 .footer {
